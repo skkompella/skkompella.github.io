@@ -1,2 +1,2 @@
 # THEubeATMOSPHERE.github.io
-mywebsite
+Just a website.
