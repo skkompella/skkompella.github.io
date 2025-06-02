@@ -1,2 +1,2 @@
 # THEubeATMOSPHERE.github.io
-Just a website.
+Just a personal website.
