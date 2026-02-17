@@ -1,2 +1,2 @@
-# THEubeATMOSPHERE.github.io
-Just a personal website.
+# skkompella.github.io
+Personal website.
